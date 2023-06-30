@@ -1,0 +1,17 @@
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.csproj.AssemblyReference.cache
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.Form1.resources
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.csproj.GenerateResource.cache
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.AssemblyInfoInputs.cache
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.AssemblyInfo.cs
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.csproj.CoreCompileInputs.cache
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\bin\Debug\net7.0-windows\PROGRESSBAAR.exe
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\bin\Debug\net7.0-windows\PROGRESSBAAR.deps.json
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\bin\Debug\net7.0-windows\PROGRESSBAAR.runtimeconfig.json
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\bin\Debug\net7.0-windows\PROGRESSBAAR.dll
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\bin\Debug\net7.0-windows\PROGRESSBAAR.pdb
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.dll
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\refint\PROGRESSBAAR.dll
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.pdb
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\PROGRESSBAAR.genruntimeconfig.cache
+C:\Users\63998\Desktop\Java\PROGRESSBAAR\obj\Debug\net7.0-windows\ref\PROGRESSBAAR.dll
